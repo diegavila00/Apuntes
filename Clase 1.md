@@ -7,4 +7,7 @@ Ecuaciones Diferenciales
 ### 2.2 Solución de Ecuaciones Diferenciales (usando Transformada de Laplace)
 ### 2.3 Modelamiento Matematico de sisetmas
 #### 2.3.1 Mecanicos 
-
+#### 2.3.2 Eléctricos 
+#### 2.3.3 Hidráulicos
+#### 2.3.4 Térmicos 
+#### 2.3.5 Combinaciones de los mismos 
