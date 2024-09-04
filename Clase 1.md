@@ -3,6 +3,7 @@ En está clase se presento el contenido de la asignatura, requisitos previos ,bi
 ## 1. Requisitos previos 
 Ecuaciones Diferenciales 
 ## 2. Contenido 
-### Definiciones 
-### Solución de Ecuaciones Diferenciales 
+### 2.1 Definiciones 
+### 2.2 Solución de Ecuaciones Diferenciales (usando Transformada de Laplace)
+### 2.3 Modelamiento Matematico de sisetmas
 
