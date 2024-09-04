@@ -15,5 +15,13 @@ Ecuaciones Diferenciales
 ### 2.5 Diagramas de bloques 
 #### 2.5.1 Algebra de bloques 
 #### 2.5.2 Diagramas de flechas (Fórmula de Mason)
-### 2.6 Análisis de sistemas de 
-$1^2$
+### 2.6 Análisis de sistemas de 1er y 2do orden 
+## 3. Software 
+### 3.1 Matlab
+### 3.2 Simulador de circuitos 
+## 4. Bibliografia 
+### 4.1 Sistemas Dinámicos(katsuhiko Ogata)
+### 4.2 Ingeniería de control moderna (katsuhiko Ogata)
+### 4.3 Control automático de procesos (Smith y Corripio)
+## 5. Evaluación 
+
