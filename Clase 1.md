@@ -11,3 +11,7 @@ Ecuaciones Diferenciales
 #### 2.3.3 Hidráulicos
 #### 2.3.4 Térmicos 
 #### 2.3.5 Combinaciones de los mismos 
+### 2.4 Funcioines de tranferencia 
+### 2.5 Diagramas de bloques 
+#### 2.5.1 Algebra de bloques 
+#### 2.5.2 Diagramas de flechas (Fórmula de Mason)
