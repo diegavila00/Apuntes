@@ -15,4 +15,5 @@ Ecuaciones Diferenciales
 ### 2.5 Diagramas de bloques 
 #### 2.5.1 Algebra de bloques 
 #### 2.5.2 Diagramas de flechas (Fórmula de Mason)
-### 2.6 Análisis de sistemas de $1^er$
+### 2.6 Análisis de sistemas de 
+$1^2$
