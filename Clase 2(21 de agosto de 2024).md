@@ -48,7 +48,7 @@ Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la
 ![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/P.png)
 
 ### 4.1 Tranformada inversa de Laplace 
-
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-06%20183058.png)
 
 
 
