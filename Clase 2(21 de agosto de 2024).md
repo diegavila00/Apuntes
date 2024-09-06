@@ -25,9 +25,11 @@ Figura 1. Descripcion grafica de sistema
 
 ![Derivada](https://github.com/diegavila00/Apuntes/blob/main/TP/solucion.png)
 
-### 3.2 Forma general de ecuaciones diferenciales 
+### 3.2 Forma general de una ecuaciones diferenciales 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/e.png)
 
-
+#### 3.2.1 Caracteristicas de una ecuacion diferencial 
+![]()
 
 
 
