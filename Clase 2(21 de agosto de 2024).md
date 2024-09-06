@@ -25,10 +25,17 @@ Figura 1. Descripcion grafica de sistema
 
 ![Derivada](https://github.com/diegavila00/Apuntes/blob/main/TP/solucion.png)
 
+### 3.2 Forma general de ecuaciones diferenciales 
+
+
+
+
+
+
 ## Transformada de Laplace 
 Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
 
-![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/Laplace.png)
+![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/P.png)
 
 
 
