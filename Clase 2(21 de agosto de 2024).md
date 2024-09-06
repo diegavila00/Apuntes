@@ -5,3 +5,15 @@ En esta clase definimos conceptos importantes para el desarrollo de la asignatur
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/sistema.png)
 
 >🔑 Sistema Dinamico:Un sistema se llama dinamico si su salida en el presente depende de una entrada en el pasado
+
+>🔑Planta: Toodo lo fisico que permite que sse lleve acabo un proceso
+
+>🔑Proceso: Secuencia de pasos que permite el desarrollo o fabricacion de un objeto o producto.
+
+>🔑Modelos Dinamicos: En control interesa  obtner un modelo matematico que relacione las variables de interes con el tiempo.
+
+>🔑Sistema lineal: Cumple el principio de superpocición y halla proporcionalidad entre entrada y salida.
+## Transformada de Laplace 
+Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
+
+
