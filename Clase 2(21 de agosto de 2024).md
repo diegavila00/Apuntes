@@ -31,16 +31,23 @@ Figura 1. Descripcion grafica de sistema
 #### 3.2.1 Caracteristicas de una ecuacion diferencial 
 ##### 3.2.1.1 Ecuacion lineal invariante en el tiempo .
 
+💡Ejemplo 2.
+
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-06%20181925.png)
 
 ##### 3.2.1.2 Ecuacion lineal variante en el tiempo 
-![]()
+
+💡Ejemplo 3.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-06%20182427.png)
 
 
-## Transformada de Laplace 
+## 4. Transformada de Laplace 
 Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
 
 ![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/P.png)
+
+### 4.1 Tranformada inversa de Laplace 
 
 
 
