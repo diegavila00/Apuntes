@@ -20,16 +20,16 @@ Figura 1. Descripcion grafica de sistema
 
 ![Formula General de la derivada](https://github.com/diegavila00/Apuntes/blob/main/TP/derivada.png)
 
-Figura 2. Formula General de la derivada
 
 💡Ejemplo 1. 
-$f(x)=x^2\longrightarrow \frac{df(x)}{dx}=2x$ 
+
+![Derivada](https://github.com/diegavila00/Apuntes/blob/main/TP/solucion.png)
 
 ## Transformada de Laplace 
 Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
 
 ![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/Laplace.png)
 
-Figura . Transformada de Laplace
+
 
 
