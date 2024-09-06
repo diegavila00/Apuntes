@@ -1,8 +1,9 @@
 # Introduccion a la Dinámica de sistemas 
 En esta clase definimos conceptos importantes para el desarrollo de la asignatura, cada uno de estos conceptos nos da una acercamiento a la Dinámica de sistemas, tambien empezamos un repaso de algunos temas matematicos que debemos tener en cuenta para mas adelante poder dar solución a los ejercios que realizaremos en la asignatura. 
 ## Conceptos importantes 
->🔑Sistema: Combinación de componentes que actuan conjuntamente para alcanzar un objetivo<
+>🔑Sistema: Combinación de componentes que actuan conjuntamente para alcanzar un objetivo
 ![Sistema](https://github.com/diegavila00/Apuntes/blob/main/TP/sistema.png)
+Figura 1. Descripcion grafica de sistema 
 
 >🔑 Sistema Dinamico:Un sistema se llama dinamico si su salida en el presente depende de una entrada en el pasado
 
@@ -15,5 +16,8 @@ En esta clase definimos conceptos importantes para el desarrollo de la asignatur
 >🔑Sistema lineal: Cumple el principio de superpocición y halla proporcionalidad entre entrada y salida.
 ## Transformada de Laplace 
 Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
-![](https://github.com/diegavila00/Apuntes/blob/main/TP/Laplace.png)
+
+![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/Laplace.png)
+
+Figura 1. Transformada de Laplace
 
