@@ -14,10 +14,13 @@ Figura 1. Descripcion grafica de sistema
 >🔑Modelos Dinamicos: En control interesa  obtner un modelo matematico que relacione las variables de interes con el tiempo.
 
 >🔑Sistema lineal: Cumple el principio de superpocición y halla proporcionalidad entre entrada y salida.
+
+## Repaso de calculo diferencial 
 ## Transformada de Laplace 
 Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
 
 ![Formula transformada de Laplace](https://github.com/diegavila00/Apuntes/blob/main/TP/Laplace.png)
 
-Figura 1. Transformada de Laplace
+Figura 2. Transformada de Laplace
+
 
