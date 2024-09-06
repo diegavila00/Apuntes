@@ -29,9 +29,12 @@ Figura 1. Descripcion grafica de sistema
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/e.png)
 
 #### 3.2.1 Caracteristicas de una ecuacion diferencial 
+##### 3.2.1.1 Ecuacion lineal invariante en el tiempo .
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-06%20181925.png)
+
+##### 3.2.1.2 Ecuacion lineal variante en el tiempo 
 ![]()
-
-
 
 
 ## Transformada de Laplace 
