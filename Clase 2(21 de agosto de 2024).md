@@ -16,6 +16,7 @@ Figura 1. Descripcion grafica de sistema
 >🔑Sistema lineal: Cumple el principio de superpocición y halla proporcionalidad entre entrada y salida.
 
 ## Repaso de calculo diferencial 
+
 ## Transformada de Laplace 
 Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la frecuencia compleja.
 
