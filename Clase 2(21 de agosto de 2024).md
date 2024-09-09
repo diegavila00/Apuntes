@@ -60,13 +60,16 @@ Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la
 
 ### 4.1.3 Algunas de las tranformadas de Laplace que mas usaremos en la asignatura 
 #### 4.1.3.1 Trsnformada escalón unitario 
-![](https://github.com/diegavila00/Apuntes/blob/main/TP/image.png)
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/escalon.png)
 #### 4.1.3.2 Tranformada funcion rampa 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-09%20100859.png)
 #### 4.1.2.3 Tranformada funcion senosoidal 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/seno.png)
 ## 5. Calculo de tranformada de Laplace 
 Si la funcion lo permite utilizar tablas de trasformadas, si la función es una combinación de varias funciones, expandir en fracciones parciales para obtener suma de funciones que se pueden encuntran en la tabla de tranformadas de Laplace 
+### 5.1 Casos de la fracciones parciales 
+#### 5.1.1 Caso 1(El denominador tiene raices reales distintos)
+
 
 
 
