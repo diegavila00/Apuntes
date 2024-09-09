@@ -50,11 +50,15 @@ Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la
 ### 4.1 Tranformada inversa de Laplace 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-06%20183058.png)
 
-### 4.1.2 Algunas de las tranformadas de Laplace que mas usaremos en la asignatura 
-#### 4.1.2.1 Trsnformada escalón unitario 
+### 4.2 Principales reglas de tranformada de Laplace 
+#### 4.2.1 Tranformada de una funcion 
+
+
+### 4.1.3 Algunas de las tranformadas de Laplace que mas usaremos en la asignatura 
+#### 4.1.3.1 Trsnformada escalón unitario 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/image.png)
-#### 4.1.2.2 Tranformada funcion rampa 
-![]()
+#### 4.1.3.2 Tranformada funcion rampa 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-09%20100859.png)
 #### 4.1.2.3 Tranformada funcion senosoidal 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/seno.png)
 
