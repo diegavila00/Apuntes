@@ -70,6 +70,19 @@ Si la funcion lo permite utilizar tablas de trasformadas, si la función es una 
 ### 5.1 Casos de la fracciones parciales 
 #### 5.1.1 Caso 1(El denominador tiene raices reales distintos)
 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/fp.png)
+
+-Sepración en fracciones parciales 
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/dFP.png)
+
+-A,B.......,N son los coeficinetes que debemos encontrar 
+
+💡Ejemplo 4.
+Dterminar la tranformada de la inversa de:
+
+
+
 
 
 
