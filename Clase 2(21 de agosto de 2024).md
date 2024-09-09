@@ -18,12 +18,12 @@ Figura 1. Descripcion grafica de sistema
 ## 3. Temas para recordar de calculo diferencial  
 ### 3.1 Derivada  
 
-![Formula General de la derivada](https://github.com/diegavila00/Apuntes/blob/main/TP/derivada.png)
+$lim_{h \to 0}\frac{f(x+h)-f(x)}{h}$
 
 
 💡Ejemplo 1. 
 
-![Derivada](https://github.com/diegavila00/Apuntes/blob/main/TP/solucion.png)
+$f(x)=x^2\longrightarrow \frac{df(x)}{dx}=2x$
 
 ### 3.2 Forma general de una ecuaciones diferenciales 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/e.png)
@@ -80,10 +80,15 @@ Si la funcion lo permite utilizar tablas de trasformadas, si la función es una 
 
 💡Ejemplo 4.
 Dterminar la tranformada de la inversa de:
+
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/ejemplo%20caso%201.png)
 
 -Solución 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/Solucion%20ejemplo%20caso%201.png)
 
+$G(s)=\frac{2s^2-4}{(s+1)(s-2)(s-3)}=\frac{A}{s+1}+\frac{B}{s-2}+\frac{C}{s-3}$
+
+$x(t)=2x$
 
 
 
