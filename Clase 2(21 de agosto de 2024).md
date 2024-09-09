@@ -52,6 +52,8 @@ Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la
 
 ### 4.2 Principales reglas de tranformada de Laplace 
 #### 4.2.1 Tranformada de una funcion 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/L%20funcion.png)
+#### 4.2.2 Tranformada de la derivada 
 
 
 ### 4.1.3 Algunas de las tranformadas de Laplace que mas usaremos en la asignatura 
