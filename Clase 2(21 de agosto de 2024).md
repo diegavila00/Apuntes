@@ -54,7 +54,8 @@ Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la
 #### 4.2.1 Tranformada de una funcion 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/L%20funcion.png)
 #### 4.2.2 Tranformada de la derivada 
-
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/L%20derivada.png)
+#### 4.2.2
 
 ### 4.1.3 Algunas de las tranformadas de Laplace que mas usaremos en la asignatura 
 #### 4.1.3.1 Trsnformada escalón unitario 
