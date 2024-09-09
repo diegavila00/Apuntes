@@ -54,6 +54,9 @@ Es un cambio de espacio geometrico del dominio del tiempo hacia el dominio de la
 #### 4.1.2.1 Trsnformada escalón unitario 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/image.png)
 #### 4.1.2.2 Tranformada funcion rampa 
+![]()
+#### 4.1.2.3 Tranformada funcion senosoidal 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/seno.png)
 
 
 
