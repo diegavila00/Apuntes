@@ -80,6 +80,9 @@ Si la funcion lo permite utilizar tablas de trasformadas, si la función es una 
 
 💡Ejemplo 4.
 Dterminar la tranformada de la inversa de:
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/ejemplo%20caso%201.png)
+
+-Solución 
 
 
 
