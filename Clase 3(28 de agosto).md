@@ -1,1 +1,2 @@
-## titulo 
+# Ecuaciones Diferenciales y metodo resumido de tranformda de Laplace 
+Antes de empezar con la solucion de ecuaciones diferenciales y el metodo resumido para la solución de tranformada de Laplace, terminados de repasar los dos casos de descomposición en fracciones parciales que faltaron de la clase anterior los cuales son cuando el Tiene raices reales reptidas y cuando las raices son complejas, tambien aprendimos como solucionar fraciones parciales, la transformada y la transformada inversa de Lplace, ecuaciones diferenciales usando matlab.
