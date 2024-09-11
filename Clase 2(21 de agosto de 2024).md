@@ -89,7 +89,7 @@ $G(s)=\frac{2s^2-4}{(s+1)(s-2)(s-3)}$
 -Solución 
 
 
-$G(s)=\frac{2s^2-4}{(s+1)(s-2)(s-3)}=\frac{A}{s+1}+\frac{B}{s-2}+c\frac{C}{s-3}$
+$G(s)=\frac{2s^2-4}{(s+1)(s-2)(s-3)}=\frac{A}{s+1}+\frac{B}{s-2}+\frac{C}{s-3}$
 
 $2s^2-4=A(s-2)(s-3)+B(s+1)(s-3)C(s+1)(s-2)$
 
@@ -102,6 +102,16 @@ A + B + C &= 2 \\
 6A - 3B + 2C &= -4
 \end{align*}
 $$
+
+$$
+\begin{align*}
+A=-\frac{1}{6}\\
+B=-\frac{4}{3}\\
+C=\frac{7}{2}\\
+\end{align*}
+$$
+
+$\frac{A}{s+1}+\frac{B}{s-2}+\frac{C}{s-3}=$ 
 
 
 
