@@ -189,7 +189,7 @@ $Y(s)=\frac{6s-4}{s^2+4s+20}$
 ```
 syms ts
 Y=(6*s-4)/(s^2+4*s+20);
-y=inlaplace(Y)
+y=ilaplace(Y)
 y=
 6*exp(-2*t)*(cos(4*t) - (2*sin(4*t))/3)
 
@@ -264,4 +264,33 @@ dx=diff(x,t);
  disp(sol);
 3*cos((2^(1/2)*t)/2) + 2^(1/2)*sin((2^(1/2)*t)/2) + 2
 ```
+
+📚Ejercico 2.
+Usando Matlab determinar la transformada inversa de:
+
+$$Y(s)=\frac{4*s+8}{3s^2+2s+5}$$
+
+```
+syms t s
+Y=(4*s+8)/(3*s^2+2*s+5);
+y=ilaplace(Y);
+y =
+ 
+(4*exp(-t/3)*(cos((14^(1/2)*t)/3) + (5*14^(1/2)*sin((14^(1/2)*t)/3))/14))/3
+```
+
+Entonces:
+
+$$L^{-1}\left[\frac{4s+8}{3s^2+2s+5}\right]=\frac{4 \cdot e^{-\frac{t}{3}} \left( \cos\left(\frac{\sqrt{14} \cdot t}{3} \right) + \frac{5 \cdot \sqrt{14} \cdot \sin\left(\frac{\sqrt{14} \cdot t}{3} \right)}{14} \right)}{3}$$
+
+## 8. conclusiones 
+- MATLAB es una herramienta eficiente para automatizar la solución de ecuaciones diferenciales y fracciones parciales
+  
+- La transformada de Laplace y su inversa simplifican la resolución de ecuaciones diferenciales, permitiendo transformar el problema del dominio del tiempo al dominio de s, donde las ecuaciones son más fáciles de manejar algebraicamente, y luego revertir el proceso para obtener la solución en el tiempo
+
+
+
+
+
+
 
