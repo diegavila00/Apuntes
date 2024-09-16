@@ -248,3 +248,20 @@ disp(sol);
 $$y\left(t\right)=\frac{5}{2}-\frac{1}{2}e^{-2t}$$
 
 ## 7. Ejercicios 
+📚Ejercico 1.
+Usando Matlab determinar la solución de la siguiente ecuación diferencial:
+
+$x(t)=8\ddot{x}+4x=8$
+
+$x(0)=5, \dot{x}=1$
+
+```
+syms x(t)
+ eqn=8*diff(x,t,2)+4*x==8;
+dx=diff(x,t);
+ ic=[dx(0);x(0)]==[1;5];
+ sol=dsolve(eqn,ic);
+ disp(sol);
+3*cos((2^(1/2)*t)/2) + 2^(1/2)*sin((2^(1/2)*t)/2) + 2
+```
+
