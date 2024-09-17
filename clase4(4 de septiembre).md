@@ -40,9 +40,11 @@ Cuando un cuerpo se desliza sobre una superficie no lubricada, ocurre esto.
   
   ![](https://github.com/diegavila00/Apuntes/blob/main/TP/Masa%20resorte.png)
 
-  -Lo primero que debemos hacer es realizar un diagrama de cuerpo libre y en el definir cual va a ser nuestro marco de referncia para determianr que fuerzas son negativas y cuales son positivas
+  - Lo primero que debemos hacer es realizar un diagrama de cuerpo libre y en el definir cual va a ser nuestro marco de referncia para determianr que fuerzas son negativas y cuales son positivas
 
   ![](https://github.com/diegavila00/Apuntes/blob/main/TP/cuerpo%20libre.png)
+
+- Desarrolo matematico 
 
 $\sum f = m*a$
 
@@ -50,14 +52,43 @@ $u-FR-FF=m*a$
 
 - $FR=K_{2}*y(t)$
   
-$u(t)-k_{2}*y(t)-FF=m*a$
+$u(t)-k_{2}y(t)-FF=m*a$
 
-- $FF=k_{1}\dot{y}=m*a$
+- $FF=k_{1}\dot{y}(t)$
 
+$u(t)-k_{2}y(t)-k_{1}\dot{y}(t)=m*a$
 
+- $a=\ddot{y}(t)$
 
+- Modelo matematico
 
+$u(t)-k_{2}y(t)-k_{1}\dot{y}(t)=m\ddot{y}(t)$
+-
 
+>🔑y(t)=posición
+
+💡Ejemplo 2.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/masa%20resorte%202.png)
+
+- Diagrama de cuerpo libre
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/cuerpo%20libre%202.1.png)
+
+- Desarrolo matematico
+
+$\sum f = m*a$
+
+$u+mg-FR-FA=m*a$
+
+- $FR=K_{2}*y(t)$
+- $FA=k_{1}\dot{y}$
+- $a=\ddot{y}(t)$
+
+-Modelo matematico
+
+$u(t)+mg-K_{2}*y(t)-k_{1}\dot{y}(t)=m\ddot{y}(t)$
+-
 
 
 
