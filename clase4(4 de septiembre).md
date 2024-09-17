@@ -15,3 +15,16 @@ $F=kx=k(x_{1}-x_{2})$
 
 ## 2. Amortiguador 
 Es un elemento mecanico que dispersa energia en forma de calor en lugar de almacenarla.La siguiente figura muestra un amortiguador traslacional. consiste en un piston y un cilindro lleno de aceite. Cualquier moviniento relativo entre el vastago del pisto y el cilindro encuentra resistencia por el aceite.
+
+![Amortiguador translacional](https://github.com/diegavila00/Apuntes/blob/main/TP/Captura%20de%20pantalla%202024-09-17%20103113.png)
+
+>🔑 Coeficiente de friccion viscosa
+>$F=b\dot{x}=b(\dot{x_{1}}-\dot{x_{2}})$
+
+## 3. Tipos de fricción 
+### 3.1. Friccion en seco 
+Cuando un cuerpo se desliza sobre una superficie no lubricada, ocurre esto.
+
+- Fricción estatica 
+- Fricción por desplazamiento 
+- Friccion porn rodamiento 
