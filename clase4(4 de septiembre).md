@@ -9,7 +9,7 @@ $F=kx=k(x_{1}-x_{2})$
 
 >🔑K es la constante del resorte
 
-![](https://github.com/diegavila00/Apuntes/blob/main/TP/image.png)
+![]()
 
 -La constante del resorte indica rigidez, un valor pequeño de k es un resorte suave y valor grande de k es un rosorte duro.
 
