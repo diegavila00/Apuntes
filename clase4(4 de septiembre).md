@@ -8,4 +8,10 @@ Es un elemento mecanico que puede ser deformado por una fuerza externa tal que l
 $F=kx=k(x_{1}-x_{2})$
 
 >🔑K es la constante del resorte
->
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/image.png)
+
+-La constante del resorte indica rigidez, un valor pequeño de k es un resorte suave y valor grande de k es un rosorte duro.
+
+## 2. Amortiguador 
+Es un elemento mecanico que dispersa energia en forma de calor en lugar de almacenarla.La siguiente figura muestra un amortiguador traslacional. consiste en un piston y un cilindro lleno de aceite. Cualquier moviniento relativo entre el vastago del pisto y el cilindro encuentra resistencia por el aceite.
