@@ -283,10 +283,15 @@ Entonces:
 
 $$L^{-1}\left[\frac{4s+8}{3s^2+2s+5}\right]=\frac{4 \cdot e^{-\frac{t}{3}} \left( \cos\left(\frac{\sqrt{14} \cdot t}{3} \right) + \frac{5 \cdot \sqrt{14} \cdot \sin\left(\frac{\sqrt{14} \cdot t}{3} \right)}{14} \right)}{3}$$
 
-## 8. conclusiones 
+## 8. Conclusiones 
 - MATLAB es una herramienta eficiente para automatizar la solución de ecuaciones diferenciales y fracciones parciales
   
 - La transformada de Laplace y su inversa simplifican la resolución de ecuaciones diferenciales, permitiendo transformar el problema del dominio del tiempo al dominio de s, donde las ecuaciones son más fáciles de manejar algebraicamente, y luego revertir el proceso para obtener la solución en el tiempo
+
+
+## 9. Referencias 
+- Ogata, K., & Sanchez, G. L. P. (1987). Dinámica de sistemas (Vol. 3). Prentice-Hall Hispanoamericana.
+- Ogata, K. (2003). Ingeniería de control moderna. Pearson educación.
 
 
 
