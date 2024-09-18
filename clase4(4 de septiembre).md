@@ -90,6 +90,10 @@ $u+mg-FR-FA=m*a$
 $u(t)+mg-K_{2}*y(t)-k_{1}\dot{y}(t)=m\ddot{y}(t)$
 -
 
+>🔑Vibración libre: Aplicar un estimulo al sistema y quitralo rapidamente 
+
+
+
 ## 5. Ejercicios 
 📚 Ejercico 1. 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/ejercicio.png)
