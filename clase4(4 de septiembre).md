@@ -90,8 +90,43 @@ $u+mg-FR-FA=m*a$
 $u(t)+mg-K_{2}*y(t)-k_{1}\dot{y}(t)=m\ddot{y}(t)$
 -
 
+## 5. Ejercicios 
+📚 Ejercico 1. 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/ejercicio.png)
 
+-Diagrama de cuerpo libre 
 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/cuerpo%20libro%20ejercico.png)
+
+- Desarrollo matematico
+  
+$\sum f = m*a$
+
+$u+mg-FR-FA=m*a$
+
+- $FR=K_{2}*y(t)$
+- $FA=k_{1}\dot{y}$
+- $a=\ddot{y}(t)$
+
+-Modelo matematico
+
+$u(t)+mg-K_{2}*y(t)-k_{1}\dot{y}(t)=m\ddot{y}(t)$
+-
+
+## 6. Conclusiones 
+- La constante del resorte (K) determina la rigidez: cuanto mayor es K, más duro es el resorte, y cuanto menor es K, más suave es.
+   
+- El amortiguador disipa energía en forma de calor mediante la resistencia al movimiento, lo que lo diferencia del resorte, que almacena energía.
+
+- La fricción en seco se clasifica en estática, por desplazamiento y por rodamiento, y afecta significativamente el comportamiento de los sistemas mecánicos.
+
+- El sistema masa-resorte-amortiguador se modela matemáticamente con ecuaciones diferenciales que relacionan fuerzas, desplazamiento, velocidad y aceleración.
+
+  ## 7. Referencias
+- Diferenciales, E. [@EcuacionesDiferenciales]. (s/f). Modelado sistema MRA. Youtube. Recuperado el 18 de septiembre de 2024, de https://www.youtube.com/watch?v=n3D_NGlfmLA
+
+- Ogata, K., & Sanchez, G. L. P. (1987). Dinámica de sistemas (Vol. 3). Prentice-Hall Hispanoamericana.
+- Ogata, K. (2003). Ingeniería de control moderna. Pearson educación.
 
 
 
