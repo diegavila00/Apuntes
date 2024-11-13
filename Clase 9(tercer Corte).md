@@ -35,14 +35,34 @@ $2\rightarrow$ Bipropia.
 $\frac{1}{s+1}\rightarrow$ Estrictamente propia.
 
 ## 2. Ceros de una FT
-Para hallar los ceros de una FT debemos igualar a 0 el numerador.
+Para hallar los ceros de una FT debemos igualar a 0 el numerador, despejamos  "s" y los representamos en el plano complejo con un $\bigcirc$
 
 💡Ejemplo 2.
 Hallar los ceros de la siguiente FT
 
 $\frac{3s-1}{S^2+3s+2}$
 
-- Igualando el numerador 
+- Igualando el numerador a 0
+
+$3s-1=0$
+
+$s=\frac{1}{3}$
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/0.png)
+
+## Polos de un sistema 
+Para hallar los polos de un sistema igualamos el denominador a 0, despejamos "s" y los presentamos en el plano complejo con una $\times$
+
+💡Ejemplo 3.
+
+$D(s)=S^2+3s+2$
+
+$(s+1)(s+2)=0$
+
+- $S_1=-1$
+- $S_2=-2$
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/p.png)
 
 
 
