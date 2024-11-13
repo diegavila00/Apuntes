@@ -98,11 +98,50 @@ $Y(s)=\frac{4}{5s+1}\frac{1}{s}$
 
 $\lim_{s\to 0}S\left(\frac{4}{5s+1}\right)\left(\frac{1}{s}\right)\rightarrow \lim_{s\to}\frac{4}{5(0)+1}\rightarrow 4$
 
+## 5. Ejercicos 
 
+📚 Ejercico 1.
 
+Realizar el mapa de polos y ceros para el siguiente sistema.
+$\frac{s+5}{s^2+5s+6}$
 
+- Ceros
 
+$s+5=0$
 
+$s=-5$
 
+- Polos
+
+$s^2+5s+6=0$
+
+$s_1=-3$
+
+$s_2=-2$
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/m1.png)
+
+📚 Ejercico 2.
+
+Realizar el mapa de polos y ceros para el siguiente sistema.
+$\frac{3s+4}{3s^3+s^2+9s+2}$
+
+- Ceros
+
+$3s+4=0$
+
+$s=-\frac{4}{3}$
+
+- Polos
+
+$3s^3+s^2+9s+2=0$
+
+$s_1=-0.22$
+
+$s_2=-0.054+1.74$
+
+$s_3=-0.054-1.74$
+
+![]()
 
 
