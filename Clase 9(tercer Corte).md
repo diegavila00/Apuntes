@@ -78,9 +78,25 @@ $(s+1)(s+2)=0$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/p3.png)
 
+## 4. Teorema del valor final 
 
+>🔑
+>$t=\infty$
 
+- Error en esatdo estacionario.
 
+$\lim_{t\to\infty} f(t)=\lim_{s\to 0}sF(s)$
+
+💡Ejemplo 4.
+
+$G(s)=\frac{Y(s)}{U(s)}=\frac{4}{5s+1}\rightarrow Y(s)=\frac{4}{5s+1}U(s)$
+
+>🔑U(s)=escalon
+>$\rightarrow \frac{1}{s}$
+
+$Y(s)=\frac{4}{5s+1}\frac{1}{s}$
+
+$\lim_{s\to 0}S\left(\frac{4}{5s+1}\right)\left(\frac{1}{s}\right)\rightarrow \lim_{s\to}\frac{4}{5(0)+1}\rightarrow 4$
 
 
 
