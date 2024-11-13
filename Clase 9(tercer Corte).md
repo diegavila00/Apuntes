@@ -50,7 +50,7 @@ $s=\frac{1}{3}$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/0.png)
 
-## Polos de un sistema 
+## 3. Polos de un sistema 
 Para hallar los polos de un sistema igualamos el denominador a 0, despejamos "s" y los presentamos en el plano complejo con una $\times$
 
 💡Ejemplo 3.
@@ -64,9 +64,19 @@ $(s+1)(s+2)=0$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/p.png)
 
+## 3.1 Casos de polos de un sistema 
 
+- Polos reales e iguales
 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/p1.png)
 
+- Polos reales diferentes
+  
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/p2.png)
+
+- Polos conjugados
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/p3.png)
 
 
 
