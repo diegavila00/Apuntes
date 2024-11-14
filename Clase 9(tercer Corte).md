@@ -1,4 +1,4 @@
-# Función de tranferencia 
+# Función de tranferencia (Diego Avila y Santiago Garcia )
 En esta clase vimos que es una funcion de tranferencia.La función de transferencia (FT) es una herramienta clave para entender cómo un sistema responde a diferentes entradas. Básicamente, nos dice cómo se relaciona la entrada y la salida de un sistema en términos de frecuencia, usando polos y ceros para analizar su estabilidad y comportamiento. Esto facilita el diseño de sistemas de control, permitiendo ajustar cómo reaccionan para que cumplan con los objetivos que necesitamos.
 ## 1. ¿Qué es una función de transferencia(FT)?
 Una función de transferencia es la relación entre la salida y la entrada de un sistema, por lo general se expresa de la siguiente manera:
