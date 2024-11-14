@@ -1,5 +1,5 @@
 # Función de tranferencia 
-
+En esta clase vimos que es una funcion de tranferencia.La función de transferencia (FT) es una herramienta clave para entender cómo un sistema responde a diferentes entradas. Básicamente, nos dice cómo se relaciona la entrada y la salida de un sistema en términos de frecuencia, usando polos y ceros para analizar su estabilidad y comportamiento. Esto facilita el diseño de sistemas de control, permitiendo ajustar cómo reaccionan para que cumplan con los objetivos que necesitamos.
 ## 1. ¿Qué es una función de transferencia(FT)?
 Una función de transferencia es la relación entre la salida y la entrada de un sistema, por lo general se expresa de la siguiente manera:
 $G(s)=\frac{Y(s)}{U(s)}$
@@ -142,6 +142,11 @@ $s_2=-0.054+1.74$
 
 $s_3=-0.054-1.74$
 
-![]()
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/m2.png)
+
+## 6. Conclusiones.
+- Los polos y ceros de una función de transferencia son cruciales para definir cómo responde un sistema. Los polos afectan la estabilidad y la rapidez de la respuesta, mientras que los ceros influyen en la forma de esa respuesta. Su ubicación en el plano complejo permite visualizarlos y entender mejor estas propiedades, lo cual es fundamental para diseñar controladores que logren el rendimiento deseado del sistema.
+
+- El teorema del valor final ayuda a calcular el valor que tendrá la salida de un sistema cuando se estabiliza. Esto permite evaluar si el sistema sigue bien una entrada constante, y así los ingenieros pueden ajustar la función de transferencia para reducir errores y hacer que el sistema responda con mayor precisión.
 
 
