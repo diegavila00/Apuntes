@@ -32,6 +32,11 @@ $\frac{X(s)}{F(s)}=\frac{1}{mS^2+bS+k}$
 
 - Representación en diagrama de bloques.
 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/dg.png)
+
+- Multiplicación
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/dg2.png)
 
 
 
