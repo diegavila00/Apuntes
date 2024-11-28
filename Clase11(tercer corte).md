@@ -7,3 +7,60 @@ Es la representación del funcionamiento interno de un sistema, que se hace medi
 
 - Bloque Funcional.
 
+Representa la operación matemática sobre la señal de entrada para generar la salida.
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/pp.png)
+
+- Flechas.
+
+Representan las señales dentro del proceso. La punta de la flcha que señala el bloque indica la entrada y la punta de flecha que se aleja del bloque representa la salida. 
+
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/FF.png)
+
+- Punto suma.
+
+Realiza operaciones ya sea suma o resta unicamente entre señales, el signo en cada punta de flecha indica si la señal debe sumarse o restarse.
+
+>🔑 Las cantidades que se sumen o resten deben tener las mismas dimensiones y las mismas unidades.
+
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/sss.png)
+
+- Ramificación
+
+Un punto de ramificacion es el punto en el que la señal de un bloque va de forma simultánea a otros bloques o puntos sumas.
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/rrr.png)
+
+- Interpretación del diagrama de bloques.
+
+
+La salida del bloque funcional es la multiplicación de la entrada por la función de transferencia del bloque.
+
+$Y(s)=U(s)*G(s)$
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/pp2.png)
+
+💡Ejemplo 1.
+
+Identifique los elementos del siguiente sistema.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/%C3%B1.png)
+
+- Flechas
+- Punto suma
+- Bloque Funcional
+- Ramificación 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
