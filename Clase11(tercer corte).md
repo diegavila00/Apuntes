@@ -1,4 +1,4 @@
-# Álgebra de bloques
+# Diagramas de bloques
 
 ## 1. Definición
 Es la representación del funcionamiento interno de un sistema, que se hace mediante bloques y sus relaciones, y que, además, definen la organización de todo el proceso interno, sus entradas y sus salidas.
@@ -51,7 +51,40 @@ Identifique los elementos del siguiente sistema.
 - Bloque Funcional
 - Ramificación 
 
+## Álgebra de bloques 
+Es un conjunto de reglas que permiten transformar los diagrama de bloques, similar al álgebra que permite transformar las ecuaciones lineales.
+Algunas de esas reglas son:
 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/reglas.png)
+
+💡Ejemplo 2.
+
+Reducir el siguiente diagrama de bloques.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/wwww.png)
+
+>🔑
+>Usamos esta regla
+>![](https://github.com/diegavila00/Apuntes/blob/main/TP/oooooooooo.png)
+
+- Diagrama de bloques resultante.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/xxxxxx.png)
+
+
+💡Ejemplo 3.
+
+Reducir el siguiente diagrama de bloques.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/bbbbbb.png)
+
+- Procedimiento
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/aaaaaaaa.png)
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/nnnnnnnn.png)
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/cccccc.png)
 
 
 
