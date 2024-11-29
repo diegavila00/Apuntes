@@ -86,6 +86,8 @@ Reducir el siguiente diagrama de bloques.
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/cccccc.png)
 
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/RRRRRR.png)
+
 
 
 
