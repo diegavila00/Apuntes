@@ -98,7 +98,11 @@ Realice la reducción usando álgebra de bloques.
 
 - Procedimiento 
 
-![]()
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje1.1.png)
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje1.2.png)
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje1.3.png)
 
 ## 5. Cunclusiones 
 
