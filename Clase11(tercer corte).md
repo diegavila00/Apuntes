@@ -1,4 +1,4 @@
-# Diagramas de bloques
+# Diagramas de bloques(Diego Avila y Santigo Garcia)
 En esta clase hablamos sobre los diagramas de bloques y álgebra de bloques,un diagrama de bloques es una forma fácil y visual de entender cómo funciona un sistema, mostrando sus partes principales y cómo las señales pasan de una a otra. Los bloques representan procesos, las flechas indican el flujo, y elementos como los puntos de suma o las ramificaciones ayudan a combinar o dividir señales.
 ## 1. Definición
 Es la representación del funcionamiento interno de un sistema, que se hace mediante bloques y sus relaciones, y que, además, definen la organización de todo el proceso interno, sus entradas y sus salidas.
