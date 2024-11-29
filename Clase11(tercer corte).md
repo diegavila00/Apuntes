@@ -104,10 +104,30 @@ Realice la reducción usando álgebra de bloques.
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje1.3.png)
 
+📚 Ejercico 2. 
+
+Realice la reducción usando álgebra de bloques.
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje2.png)
+
+- Procedimeinto
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje2.1.png)
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/eje2.2.png)
+
+
 ## 5. Cunclusiones 
 
 - Los diagramas de bloques permiten representar visualmente procesos complicados, haciendo más sencillo identificar cómo funcionan y cómo interactúan sus componentes principales.
 - Ayudan a analizar, simplificar y optimizar sistemas mediante reglas específicas, lo que es especialmente útil en áreas como la ingeniería y el control de procesos.
+
+## 6. Referencias.
+
+- Ciencia, M. [@mundociencia8115]. (s/f). Ejercicios de diagramas de bloques - Parte 4. Youtube. Recuperado el 29 de noviembre de 2024, de https://www.youtube.com/watch?v=ow5sYgzbi0o
+
+- (S/f). Recuperado el 29 de noviembre de 2024, de http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://virtual.cuautitlan.unam.mx/intar/wp-content/uploads/2020/02/updated_Reglas-de-bloques.pdf
+- Electrónica, E. R. [@ejerciciosresueltoselectro4043]. (s/f). Simplificación de diagramas de bloques | Teoría de control. Youtube. Recuperado el 29 de noviembre de 2024, de https://www.youtube.com/watch?v=H3QcNHZpP04
+
 
 
 
