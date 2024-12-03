@@ -1,5 +1,5 @@
 # Modelamiento de sistemas dinámicos con diagramas de bloques.(Diego Avila, Santigo Garcia)
-
+En esta clase vimos cómo funcionan y como se modelan algunos sistemas electromecánicos, como solenoides, motores de corriente continua y engranajes. Vimos como se hace paso a paso y cómo se relacionan las partes eléctricas, mecánicas y electromagnéticas de estos sistemas, y cómo representarlas con diagramas de bloques para entender mejor su comportamiento. Todo esto se hace utilizando ecuaciones matemáticas y transformadas de Laplace, herramientas clave para analizar y diseñar dispositivos que vemos en la industria y la tecnología actual.
 ## 1.Solenoide
 Formado por un circuito electrico, acoplamiento electromecanico y un sisetma mecanico de trasnlación.
 
@@ -73,6 +73,40 @@ $\Theta(s)=T_c(s)\left(\frac{1}{(s^2 J+bs)}\right)$
 $\Theta(s)=V_c(s)\frac{K_m}{(sL_c+R_c)(Js^2+bs)}-T_p(s)\frac{1}{(J^2+bs)}$
 
 $\frac{\Theta(s)}{V_c(s)}=\frac{K_m}{(sL_c+R_c)(Js^2+bs)}$
+
+- Diagrama de bloques
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/dm.png)
+
+## 3. Engranajes 
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/engranajes.png)
+
+$\frac{\tau_2}{\tau_1}=\frac{N_2}{N_1}$
+
+$\frac{N_2}{N_1}=-\frac{\theta_1}{\theta_2}$
+
+- J y $K_m$ cambian si se tiene en cuenta el efecto de los engranajes o poleas
+
+$\frac{\Theta(s)}{Vc(s)}=\frac{K_m}{(sL_c+R_c)(Js^2+bs)}$
+
+$\beta_{equiv}=\left(\frac{N_1}{N_2}\right)^2\beta$
+
+$J_{equiv}=\left[JN_1+\left(\frac{N_1}{N_2}\right)^2(J+JN_2)\right]$
+
+- Diagrams de bloques
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/engranajes%201.0.png)
+
+💡Ejemplo 1.
+
+- Modelar el sistema usando diagramas de bloques
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/amplificador.png)
+
+- Solución
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/me.png)
 
 
 
