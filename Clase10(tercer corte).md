@@ -108,7 +108,11 @@ $J_{equiv}=\left[JN_1+\left(\frac{N_1}{N_2}\right)^2(J+JN_2)\right]$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/me.png)
 
+## 6. Referencias 
 
+- Rebollo, S. E. [@ser7620]. (s/f). Función de transferencia a partir de diagramas de bloques circuito RLC. Youtube. Recuperado el 4 de diciembre de 2024, de https://www.youtube.com/watch?v=6ADkXXKGSqA
+
+- Ogata, K. (2003). Ingeniería de control moderna. Pearson educación.
 
 
 
