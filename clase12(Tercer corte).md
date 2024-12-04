@@ -35,6 +35,27 @@ tocan)+...
 no se toquen entre sí)-(suma ganancias 3 lazos que no toquen
 la trayectoria 𝑃𝑘 y no se toquen entre sí)+…
 
+💡Ejemplo 1.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/fm.png)
+
+- Trayectorias directas
+
+$P_1= G_1* G_2* G_3$
+
+- Lazos cerrados
+
+$L_1=G_1* G_2* H_1$
+
+$L_2= -G_2 * G_3 * H_2$
+
+$L_3= -G_1 * G_2 * G_3$
+
+- $\bigtriangleup= 1-(L_1+L_2+L_3)$
+
+- $\bigtriangleup_1=1$
+
+$\frac{C(s)}{R(s)}=\frac{P_1\bigtriangleup_1}{\bigtriangleup}=\frac{G_1* G_2* G_3}{1-G_1* G_2* H_1+G_2 * G_3 * H_2+G_1 * G_2 * G_3}$
 
 
 
