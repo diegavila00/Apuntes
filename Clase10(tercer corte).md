@@ -124,7 +124,7 @@ $J_{equiv}=\left[JN_1+\left(\frac{N_1}{N_2}\right)^2(J+JN_2)\right]$
 
 ## 5. Conclusiones 
 
-- Los diagramas de bloques son herramientas súper útiles para simplificar sistemas complejos como motores, solenoides o engranajes. Nos permiten visualizar claramente cómo se conectan las partes eléctricas, mecánicas y electromagnéticas, haciendo más fácil entender su funcionamiento y comportamiento.
+- Los diagramas de bloques son herramientas muy útiles para simplificar sistemas complejos como motores, solenoides o engranajes. Nos permiten visualizar claramente cómo se conectan las partes eléctricas, mecánicas y electromagnéticas, haciendo más fácil entender su funcionamiento y comportamiento.
 
 - En los sistemas dinámicos, cada componente influye en el otro. Por ejemplo, en un solenoide, la corriente genera una fuerza, que a su vez mueve una masa. Es como un efecto dominó, y las ecuaciones matemáticas nos ayudan a describir esas relaciones paso a paso.
 
