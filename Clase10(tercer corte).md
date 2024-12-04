@@ -123,6 +123,8 @@ Desarrollo
 
 $i_1-i_L-i_2=0$
 
+$i_1=i_L+i_2$
+
 - Malla 1
 
 $V_1-Ri_1-V_L=0$
@@ -132,6 +134,26 @@ $V_1(s)-RI_1(s)=V_L(s)$
 - Malla 2
 
 $-V_C+V_L=0$
+
+$V_L=V_C$
+
+- VL
+
+$V_L=L\left(\frac{di_L}{dt}\right)$
+
+$V_L(s)=LSI_L(S)$
+
+$\left(\frac{1}{LS}\right)V_L(s)=I_L(s)$
+
+- i2
+
+$i_2=C\left(\frac{dV_C}{dt}\right)$
+
+$i_2=C\left(\frac{dV_L}{dt}\right)$
+
+$I_2(s)=C_S V_L(s)$
+
+
 
 - Diagrama de bloques
 
