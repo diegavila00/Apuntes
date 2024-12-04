@@ -108,6 +108,19 @@ $J_{equiv}=\left[JN_1+\left(\frac{N_1}{N_2}\right)^2(J+JN_2)\right]$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/me.png)
 
+## 4. Ejercicios
+
+📚 Ejercico 1. 
+
+- Realizar el modelamiento del siguiente circuito usando diagramas de bloques.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/circuito2.png)
+
+- Diagrama de bloques
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/mc.png)
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/mc2.png)
 
 ## 5. Conclusiones 
 
