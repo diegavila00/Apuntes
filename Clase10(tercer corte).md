@@ -108,6 +108,16 @@ $J_{equiv}=\left[JN_1+\left(\frac{N_1}{N_2}\right)^2(J+JN_2)\right]$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/me.png)
 
+
+## 5. Conclusiones 
+
+- Los diagramas de bloques son herramientas súper útiles para simplificar sistemas complejos como motores, solenoides o engranajes. Nos permiten visualizar claramente cómo se conectan las partes eléctricas, mecánicas y electromagnéticas, haciendo más fácil entender su funcionamiento y comportamiento.
+
+- En los sistemas dinámicos, cada componente influye en el otro. Por ejemplo, en un solenoide, la corriente genera una fuerza, que a su vez mueve una masa. Es como un efecto dominó, y las ecuaciones matemáticas nos ayudan a describir esas relaciones paso a paso.
+
+- Aunque a veces parezcan complicadas, las ecuaciones y las transformadas de Laplace son fundamentales para modelar estos sistemas. Nos ayudan a predecir cómo van a funcionar en diferentes situaciones, lo que es clave para diseñar dispositivos tecnológicos eficientes y fiables. 
+
+
 ## 6. Referencias 
 
 - Rebollo, S. E. [@ser7620]. (s/f). Función de transferencia a partir de diagramas de bloques circuito RLC. Youtube. Recuperado el 4 de diciembre de 2024, de https://www.youtube.com/watch?v=6ADkXXKGSqA
