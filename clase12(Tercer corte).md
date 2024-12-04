@@ -1,5 +1,5 @@
 # Diagrama de flujo de señales
-
+En esta clase vimos que es un diagrama de flujo de señales, que elementos lo componen, definicones muy importantes que se deben tener en cuenta para el analisis y el desarrollo de este tipo de diagramas usando la formula de Mason. 
 ## 1. ¿Qué es un diagrama de flujo de señalas?
 Es una representación gráfica que ilustra cómo se mueven las señales o la información dentro de un sistema, generalmente en el contexto de ingeniería de control, telecomunicaciones o procesamiento de señales. Este tipo de diagrama utiliza bloques, flechas y nodos para mostrar las relaciones funcionales entre las señales de entrada, los procesos intermedios y las salidas.
 
@@ -58,7 +58,13 @@ $L_3= -G_1 * G_2 * G_3$
 $\frac{C(s)}{R(s)}=\frac{P_1\bigtriangleup_1}{\bigtriangleup}=\frac{G_1* G_2* G_3}{1-G_1* G_2* H_1+G_2 * G_3 * H_2+G_1 * G_2 * G_3}$
 
 
+## 6. Ejercicios 
 
+## 7. Concluiones 
+
+- Los diagramas de flujo de señales son herramientas fundamentales para analizar y entender el comportamiento de sistemas dinámicos complejos. Permiten desglosar un sistema en sus elementos básicos (entradas, procesos y salidas) y estudiar cómo interactúan entre sí, facilitando su modelado y análisis matemático.
+-  La fórmula de ganancia de Mason proporciona un método sistemático para calcular la relación entre la salida y la entrada de un sistema complejo. Esto permite analizar sistemas con múltiples trayectorias, lazos y relaciones interdependientes de forma eficiente y ordenada.
+  
 
 
 
