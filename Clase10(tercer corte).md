@@ -116,6 +116,23 @@ $J_{equiv}=\left[JN_1+\left(\frac{N_1}{N_2}\right)^2(J+JN_2)\right]$
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/circuito2.png)
 
+Desarrollo
+-
+
+- Nodo x
+
+$i_1-i_L-i_2=0$
+
+- Malla 1
+
+$V_1-Ri_1-V_L=0$
+
+$V_1(s)-RI_1(s)=V_L(s)$
+
+- Malla 2
+
+$-V_C+V_L=0$
+
 - Diagrama de bloques
 
 ![](https://github.com/diegavila00/Apuntes/blob/main/TP/mc.png)
