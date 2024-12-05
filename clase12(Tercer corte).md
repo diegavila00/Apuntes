@@ -60,11 +60,49 @@ $\frac{C(s)}{R(s)}=\frac{P_1\bigtriangleup_1}{\bigtriangleup}=\frac{G_1* G_2* G_
 
 ## 6. Ejercicios 
 
+📚 Ejercico 1.
+
+Usando la formula de Mason desarrolar lo siguiente.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/df1.png)
+
+- Desarrollo
+
+$P_1=G1* G2* G3* G4* G5$
+
+$P_2=G1 * G6 * G4 * G5$
+
+$P_3=G1 * G2* G7$
+
+$L_1= -G4 *H1$
+
+$L_2= -G2 *G7 *H2$
+
+$L_3= -G6 * G4 * G5 * H2$
+
+$L_4= -G2 * G3 * G4 * G5 * H2$
+
+- $\bigtriangleup=1-(L1+L2+L3+L4)+L1*L2$
+- $\bigtriangleup_1=1$
+- $\bigtriangleup_2=1-L1$
+
+$P=\frac{G1* G2* G3* G4* G5+G1 * G6 * G4 * G5(1+G4H1)}{1+G4 *H1+G2 *G7 *H2+G6 * G4 * G5 * H2+G2 * G3 * G4 * G5 * H2+ G4 *H1 *G2 *G7 *H2}$
+
+📚 Ejercico 2. 
+
+
 ## 7. Concluiones 
 
 - Los diagramas de flujo de señales son herramientas fundamentales para analizar y entender el comportamiento de sistemas dinámicos complejos. Permiten desglosar un sistema en sus elementos básicos (entradas, procesos y salidas) y estudiar cómo interactúan entre sí, facilitando su modelado y análisis matemático.
 -  La fórmula de ganancia de Mason proporciona un método sistemático para calcular la relación entre la salida y la entrada de un sistema complejo. Esto permite analizar sistemas con múltiples trayectorias, lazos y relaciones interdependientes de forma eficiente y ordenada.
   
+## 8. Referencias 
+
+- Esquivel, A. [@aurelianoesquivel]. (s/f). Lección 28 Fórmula de Mason y los diagramas de flujo de señales, y un ejemplo. Youtube. Recuperado el 5 de diciembre de 2024, de https://www.youtube.com/watch?v=bFs_jfXCdLg
+- (S/f). Recuperado el 5 de diciembre de 2024, de http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://virtual.usalesiana.edu.bo/web/contenido/dossier/22011/698.pdf
+
+
+
 
 
 
