@@ -90,6 +90,26 @@ $P=\frac{G1* G2* G3* G4* G5+G1 * G6 * G4 * G5(1+G4H1)}{1+G4 *H1+G2 *G7 *H2+G6 * 
 
 📚 Ejercico 2. 
 
+Usando la formula de Mason desarrolar lo siguiente.
+
+![](https://github.com/diegavila00/Apuntes/blob/main/TP/df2.png)
+
+- Desarrollo
+
+$P_1=G1 *G2 *G3 *G4 *G5$
+
+$L_1=G1 *H1$
+
+$L_2=G4 *H2$
+
+$L_3=G6 *H3$
+
+$L_4=G2 *G3 *G4 *G5 *H4 *G6 *H5$
+
+- $\bigtriangleup=1-(L1+L2-L3)+(L1L2+L1L3+L2L3)-(L1L2L3)$
+- $\bigtriangleup_1=1-(G6 *H3)$
+
+$P=\frac{G1 *G2 *G3 *G4 *G5-G6 *H3}{G1 *H1-G4 *H2-G6 *H3-G2 *G3 *G4 *G5 *H4 *G6 *H5+G2 *H1 *G4 *H2+G2 *H1 *G6 *H3+G4 *H2 *G6 *H3-G2 *H1 *G4 *H2 *G6 *H3}$
 
 ## 7. Concluiones 
 
